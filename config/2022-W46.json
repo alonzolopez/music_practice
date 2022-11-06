@@ -7,7 +7,7 @@
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
     "Harmonic minor practice": {
-        "weight": 0,
+        "weight": 1,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Harmonic Minor"],
         "starting string": [1, 2, 3, 4, 5, 6],
@@ -20,8 +20,27 @@
         "starting string": [1, 2, 3, 4, 5, 6],
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
+    "Blues scale practice": {
+        "weight": 0,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Blues Scale"],
+        "starting string": [1, 2, 3, 4, 5, 6],
+        "mode": [1, 2, 3, 4, 5, 6, 7]
+    },
+    "Dim7 arpeggio": {
+        "weight": 0,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["dim7 arpeggio"],
+        "starting string": [1, 2, 3, 4, 5, 6]
+    },
+    "Maj7 arpeggio": {
+        "weight": 0,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["maj7 arpeggio"],
+        "starting string": [1, 2, 3, 4, 5, 6]
+    },
     "17 essential jazz chords recall": {
-        "weight": 1,
+        "weight": 3,
         "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "chord": [
             "maj7 with the root on string 6",
