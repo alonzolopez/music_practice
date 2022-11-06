@@ -1,27 +1,50 @@
 import json
 import random
+import argparse
 
 class Generator:
 
     def __init__(self):
         pass
 
-    def generateScales(self, scalesfile):
+    def drawPracticeElement(self, jsonfile):
         # open the json file
-        f = open(scalesfile)
+        f = open(jsonfile)
         data = json.load(f)
-        keys = data.keys()
+        keys = list(data.keys())
 
 
-        # loop over keys
+        # loop over keys and collect weights
+        weights = []
         for key in keys:
+            weights.append(data[key]['weight'])
+
+        # draw an exercise
+        exercise = random.choices(keys, weights)[0]
+        print("Exercise:", exercise)
+
+        # draw a practice element from the exercise's dict
+        exercise_keys = data[exercise].keys()
+        for key in exercise_keys:
+            # skip if this key is the weight param
+            if key == 'weight':
+                continue
+            
             # randomly select an element to add to output
-            index = random.randrange(len(data[key]))
-            print(key+":", str(data[key][index]))
+            index = random.randrange(len(data[exercise][key]))
+            print(key+":", str(data[exercise][key][index]))
             
 
 
 
 if __name__ == "__main__":
     generator = Generator()
-    generator.generateScales("../config/scales.json")
+    # generator.generateScales("../config/scales.json")
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--json_file")
+
+
+    args = parser.parse_args()
+    # print(args.json_file)
+    generator.drawPracticeElement(args.json_file)
