@@ -7,7 +7,7 @@
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
     "Harmonic minor practice": {
-        "weight": 1,
+        "weight": 0,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Harmonic Minor"],
         "starting string": [5, 6],
