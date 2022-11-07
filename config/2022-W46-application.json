@@ -1,0 +1,17 @@
+{
+    "Arpeggio over ii V I": {
+        "weight": 2,
+        "key": ["A major", "A# major", "B major", "C major", "C# major", "D major", "D# major", "E major", "F major", "F# major", "G major", "G# major"],
+        "notes": ["Use the ii V I chart on iRealPro. Remember to play ascending, descending, and alternating arpeggios"]
+    },
+    "Arpeggio over diatonic chords": {
+        "weight": 2,
+        "key": ["A major", "A# major", "B major", "C major", "C# major", "D major", "D# major", "E major", "F major", "F# major", "G major", "G# major"],
+        "notes": ["Use the ii V I chart on iRealPro. Remember to play ascending, descending, and alternating arpeggios"]
+    },
+    "Arpeggio over Yo No Soy Celoso": {
+        "weight": 2,
+        "key": ["A major", "A# major", "B major", "C major", "C# major", "D major", "D# major", "E major", "F major", "F# major", "G major", "G# major"],
+        "notes": ["Use the loop in logic or Anytune Pro. Remember to play ascending, descending, and alternating arpeggios"]
+    }
+}

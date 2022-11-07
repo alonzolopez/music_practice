@@ -27,8 +27,8 @@
         "starting string": [1, 2, 3, 4, 5, 6],
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
-    "Dim7 arpeggio": {
-        "weight": 0,
+    "dim7 arpeggio": {
+        "weight": 2,
         "scale": ["Adim7 arpeggio", 
             "A#dim7 arpeggio", 
             "Bdim7 arpeggio", 
@@ -42,10 +42,16 @@
             "Gdim7 arpeggio", 
             "G#dim7 arpeggio"
         ],
-        "starting string": [1, 2, 3, 4, 5, 6]
+        "grip": ["index on fret 1/5", "index on fret 2/5"]
+    },
+    "maj7/m7/7/m7b5 arpeggios": {
+        "weight": 9,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "arpeggio": ["maj7", "min7", "7", "m7b5"],
+        "shape": ["C", "A", "G", "E", "D"]
     },
     "Maj7 arpeggio": {
-        "weight": 3,
+        "weight": 0,
         "scale": [
             "Amaj7 arpeggio",
             "A#maj7 arpeggio",
@@ -63,7 +69,7 @@
         "starting string": [4, 5, 6]
     },
     "Min7 arpeggio": {
-        "weight": 3,
+        "weight": 0,
         "scale": [
             "Amin7 arpeggio",
             "A#min7 arpeggio",
@@ -80,8 +86,18 @@
         ],
         "starting string": [4, 5, 6]
     },
+    "Arpeggio over ii V I": {
+        "weight": 2,
+        "key": ["A major", "A# major", "B major", "C major", "C# major", "D major", "D# major", "E major", "F major", "F# major", "G major", "G# major"],
+        "notes": ["Use the ii V I chart on iRealPro. Remember to play ascending, descending, and alternating arpeggios"]
+    },
+    "Arpeggio over diatonic chords": {
+        "weight": 2,
+        "key": ["A major", "A# major", "B major", "C major", "C# major", "D major", "D# major", "E major", "F major", "F# major", "G major", "G# major"],
+        "notes": ["Use the ii V I chart on iRealPro. Remember to play ascending, descending, and alternating arpeggios"]
+    },
     "17 essential jazz chords recall": {
-        "weight": 3,
+        "weight": 6,
         "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "chord": [
             "maj7 with the root on string 6",
