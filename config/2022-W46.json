@@ -3,15 +3,15 @@
         "weight": 1,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Major"],
-        "starting string": [1, 2, 3, 4, 5, 6],
+        "starting string": [5, 6],
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
     "Harmonic minor practice": {
         "weight": 1,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Harmonic Minor"],
-        "starting string": [1, 2, 3, 4, 5, 6],
-        "mode": [1, 2, 3, 4, 5, 6, 7]
+        "starting string": [5, 6],
+        "mode": [1, 5]
     },
     "Melodic minor practice": {
         "weight": 0,
@@ -29,15 +29,56 @@
     },
     "Dim7 arpeggio": {
         "weight": 0,
-        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "scale": ["dim7 arpeggio"],
+        "scale": ["Adim7 arpeggio", 
+            "A#dim7 arpeggio", 
+            "Bdim7 arpeggio", 
+            "Cdim7 arpeggio", 
+            "C#dim7 arpeggio", 
+            "Ddim7 arpeggio", 
+            "D#dim7 arpeggio", 
+            "Edim7 arpeggio", 
+            "Fdim7 arpeggio", 
+            "F#dim7 arpeggio", 
+            "Gdim7 arpeggio", 
+            "G#dim7 arpeggio"
+        ],
         "starting string": [1, 2, 3, 4, 5, 6]
     },
     "Maj7 arpeggio": {
-        "weight": 0,
-        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "scale": ["maj7 arpeggio"],
-        "starting string": [1, 2, 3, 4, 5, 6]
+        "weight": 3,
+        "scale": [
+            "Amaj7 arpeggio",
+            "A#maj7 arpeggio",
+            "Bmaj7 arpeggio",
+            "Cmaj7 arpeggio",
+            "C#maj7 arpeggio",
+            "Dmaj7 arpeggio",
+            "D#maj7 arpeggio",
+            "Emaj7 arpeggio",
+            "Fmaj7 arpeggio",
+            "F#maj7 arpeggio",
+            "Gmaj7 arpeggio",
+            "G#maj7 arpeggio"
+        ],
+        "starting string": [4, 5, 6]
+    },
+    "Min7 arpeggio": {
+        "weight": 3,
+        "scale": [
+            "Amin7 arpeggio",
+            "A#min7 arpeggio",
+            "Bmin7 arpeggio",
+            "Cmin7 arpeggio",
+            "C#min7 arpeggio",
+            "Dmin7 arpeggio",
+            "D#min7 arpeggio",
+            "Emin7 arpeggio",
+            "Fmin7 arpeggio",
+            "F#min7 arpeggio",
+            "Gmin7 arpeggio",
+            "G#min7 arpeggio"
+        ],
+        "starting string": [4, 5, 6]
     },
     "17 essential jazz chords recall": {
         "weight": 3,

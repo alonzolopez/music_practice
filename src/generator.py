@@ -7,7 +7,25 @@ class Generator:
     def __init__(self):
         pass
 
-    def drawPracticeElement(self, jsonfile):
+    def drawPracticeElement(self, jsonfile : str):
+        """Draw a practice element randomly from a given 
+        json file. The json file should assign weights indicating
+        the probability associated with drawing each practice 
+        element.
+
+        :param jsonfile: Path to the json file w.r.t. the working dir.
+        :type jsonfile: str
+
+        Command-line usage:
+
+        >>> python3 src/generator.py --json_file <json-file-path>
+
+        For example:
+
+        >>> python3 src/generator.py --json_file config/2022-W46.json
+
+
+        """
         # open the json file
         f = open(jsonfile)
         data = json.load(f)
