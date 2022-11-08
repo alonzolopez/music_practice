@@ -1,6 +1,6 @@
 {
     "Major scale practice": {
-        "weight": 1,
+        "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Major"],
         "starting string": [5, 6],
@@ -28,7 +28,7 @@
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
     "dim7 arpeggio": {
-        "weight": 2,
+        "weight": 0,
         "scale": ["Adim7 arpeggio", 
             "A#dim7 arpeggio", 
             "Bdim7 arpeggio", 
@@ -45,7 +45,7 @@
         "grip": ["6th string root on fret 1/5", "6th string root on fret 2/5"]
     },
     "maj7/m7/7/m7b5 arpeggios": {
-        "weight": 9,
+        "weight": 0,
         "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "arpeggio": ["maj7", "min7", "7", "m7b5"],
         "shape": ["C", "A", "G", "E", "D"]
@@ -86,27 +86,64 @@
         ],
         "starting string": [4, 5, 6]
     },
-    "17 essential jazz chords recall": {
+    "Chord Arpeggios": {
         "weight": 6,
         "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "chord": [
-            "maj7 with the root on string 6",
-            "7 with the root on string 6",
-            "m7 with the root on string 6",
-            "m7b5 with the root on string 6",
-            "dim7 with the root on string 6",
-            "maj7 with the root on string 5",
-            "7 with the root on string 5, C shape",
+            "maj7 arpeggio with the root on string 6, E shape",
+            "7 arpeggio with the root on string 6, E shape",
+            "m7 arpeggio with the root on string 6, Em shape",
+            "m7b5 arpeggio with the root on string 6, E shape",
+            
+            "maj7 arpeggio with the root on string 6, G shape",
+            "7 arpeggio with the root on string 6, G shape",
+            "m7 arpeggio with the root on string 6, Gm shape",
+            "m7b5 arpeggio with the root on string 6, G shape",
+            
+            "maj7 arpeggio with the root on string 5, A shape",
+            "7 arpeggio with the root on string 5, A shape",
+            "m7 arpeggio with the root on string 5, Am shape",
+            "m7b5 arpeggio with the root on string 5, A shape",
+            
+            "maj7 arpeggio with the root on string 5, C shape",
+            "7 arpeggio with the root on string 5, C shape",
+            "m7 arpeggio with the root on string 5, Cm shape",
+            "m7b5 arpeggio with the root on string 5, C shape",
+
+            "maj7 arpeggio with the root on string 4, D shape",
+            "7 arpeggio with the root on string 4, D shape",
+            "m7 arpeggio with the root on string 4, Dm shape",
+            "m7b5 arpeggio with the root on string 4, D shape",
+            
+            "dim7 arpeggio with the bar ON the root on string 6",
+            "dim7 arpeggio with the bar BEFORE the root on string 6"
+        ]    
+    },
+    "Essential jazz chords recall": {
+        "weight": 6,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7 with the root on string 6, E shape",
+            "7 with the root on string 6, E shape",
+            "m7 with the root on string 6, E shape",
+            "m7b5 with the root on string 6, E shape",
+            "dim7 with the root on string 6, E shape",
+            
+            "maj7 with the root on string 5, A shape",
             "7 with the root on string 5, A shape",
             "m7 with the root on string 5, Am shape",
+            "m7b5 with the root on string 5, A shape",
+            "dim7 with the root on string 5, A shape",
+            
+            "maj7 with the root on string 5, C shape",
+            "7 with the root on string 5, C shape",
             "m7 with the root on string 5, Cm shape",
-            "m7b5 with the root on string 5",
-            "dim7 with the root on string 5",
-            "maj7 with the root on string 4",
-            "7 with the root on string 4",
-            "m7 with the root on string 4",
-            "m7b5 with the root on string 4",
-            "dim7 with the root on string 4"
+            
+            "maj7 with the root on string 4, D shape",
+            "7 with the root on string 4, D shape",
+            "m7 with the root on string 4, Dm shape",
+            "m7b5 with the root on string 4, D shape",
+            "dim7 with the root on string 4, D shape"
         ]    
     }
 }
