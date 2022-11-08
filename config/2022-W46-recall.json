@@ -42,7 +42,7 @@
             "Gdim7 arpeggio", 
             "G#dim7 arpeggio"
         ],
-        "grip": ["index on fret 1/5", "index on fret 2/5"]
+        "grip": ["6th string root on fret 1/5", "6th string root on fret 2/5"]
     },
     "maj7/m7/7/m7b5 arpeggios": {
         "weight": 9,
