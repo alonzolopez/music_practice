@@ -3,14 +3,15 @@
         "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Major"],
-        "starting string": [5, 6],
-        "mode": [1, 2, 3, 4, 5, 6, 7]
+        "mode": [1, 2, 3, 4, 5, 6, 7],
+        "grip": ["3 notes/string", "minimal movement (4-5 frets/string)"]
     },
     "Harmonic minor practice": {
         "weight": 15,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Harmonic Minor"],
-        "mode": [1, 2, 3, 4, 5, 6, 7]
+        "mode": [1, 2, 3, 4, 5, 6, 7],
+        "grip": ["3 notes/string", "minimal movement (4-5 frets/string)"]
     },
     "Melodic minor practice": {
         "weight": 0,
