@@ -1,0 +1,99 @@
+{
+    "Major scale practice": {
+        "weight": 3,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Major"],
+        "starting string": [5, 6],
+        "mode": [1, 2, 3, 4, 5, 6, 7]
+    },
+    "Harmonic minor practice": {
+        "weight": 6,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Harmonic Minor"],
+        "mode": [1, 2, 3, 4, 5, 6, 7]
+    },
+    "Melodic minor practice": {
+        "weight": 0,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Melodic Minor"],
+        "starting string": [1, 2, 3, 4, 5, 6],
+        "mode": [1, 2, 3, 4, 5, 6, 7]
+    },
+    "Major Blues scale practice": {
+        "weight": 6,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Major Blues Scale"],
+        "starting string": [4, 5, 6]
+    },
+    "Minor Blues scale practice": {
+        "weight": 6,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "scale": ["Minor Blues Scale"],
+        "starting string": [4, 5, 6]
+    },
+    "Chord Arpeggios": {
+        "weight": 6,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7 arpeggio with the root on string 6, E shape",
+            "7 arpeggio with the root on string 6, E shape",
+            "m7 arpeggio with the root on string 6, Em shape",
+            "m7b5 arpeggio with the root on string 6, E shape",
+            
+            "maj7 arpeggio with the root on string 6, G shape",
+            "7 arpeggio with the root on string 6, G shape",
+            "m7 arpeggio with the root on string 6, Gm shape",
+            "m7b5 arpeggio with the root on string 6, G shape",
+            
+            "maj7 arpeggio with the root on string 5, A shape",
+            "7 arpeggio with the root on string 5, A shape",
+            "m7 arpeggio with the root on string 5, Am shape",
+            "m7b5 arpeggio with the root on string 5, A shape",
+            
+            "maj7 arpeggio with the root on string 5, C shape",
+            "7 arpeggio with the root on string 5, C shape",
+            "m7 arpeggio with the root on string 5, Cm shape",
+
+            "maj7 arpeggio with the root on string 4, D shape",
+            "7 arpeggio with the root on string 4, D shape",
+            "m7 arpeggio with the root on string 4, Dm shape",
+            "m7b5 arpeggio with the root on string 4, D shape",
+            
+            "dim7 arpeggio with 6th string root on fret 1/5",
+            "dim7 arpeggio with 6th string root on fret 2/5"
+        ]    
+    },
+    "Essential jazz chords recall": {
+        "weight": 6,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7 with the root on string 6, E shape",
+            "7 with the root on string 6, E shape",
+            "m7 with the root on string 6, E shape",
+            "m7b5 with the root on string 6, E shape",
+            "dim7 with the root on string 6, E shape",
+            
+            "maj7 with the root on string 5, A shape",
+            "7 with the root on string 5, A shape",
+            "m7 with the root on string 5, Am shape",
+            "m7b5 with the root on string 5, A shape",
+            "dim7 with the root on string 5, A shape",
+            
+            "maj7 with the root on string 5, C shape",
+            "7 with the root on string 5, C shape",
+            "m7 with the root on string 5, Cm shape",
+            
+            "maj7 with the root on string 4, D shape",
+            "7 with the root on string 4, D shape",
+            "m7 with the root on string 4, Dm shape",
+            "m7b5 with the root on string 4, D shape",
+            "dim7 with the root on string 4, D shape"
+        ]    
+    },
+    "Bends": {
+        "weight": 25,
+        "step": ["whole step", "half step"],
+        "note to bend to": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "string": [4, 5, 6]
+    }
+}
