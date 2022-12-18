@@ -7,7 +7,7 @@
         "mode": [1, 2, 3, 4, 5, 6, 7]
     },
     "Harmonic minor practice": {
-        "weight": 6,
+        "weight": 9,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "scale": ["Harmonic Minor"],
         "mode": [1, 2, 3, 4, 5, 6, 7]
@@ -95,5 +95,59 @@
         "step": ["whole step", "half step"],
         "note to bend to": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "string": [4, 5, 6]
+    },
+    "Application": {
+        "weight": 20,
+        "exercise": [
+            "Play the natural modes over a ii V I prog in A",
+            "Play the natural modes over a ii V I prog in A#",
+            "Play the natural modes over a ii V I prog in B",
+            "Play the natural modes over a ii V I prog in C",
+            "Play the natural modes over a ii V I prog in C#",
+            "Play the natural modes over a ii V I prog in D",
+            "Play the natural modes over a ii V I prog in D#",
+            "Play the natural modes over a ii V I prog in E",
+            "Play the natural modes over a ii V I prog in F",
+            "Play the natural modes over a ii V I prog in F#",
+            "Play the natural modes over a ii V I prog in G",
+            "Play the natural modes over a ii V I prog in G#",
+            "Play the natural modes over a diatonic prog in A",
+            "Play the natural modes over a diatonic prog in A#",
+            "Play the natural modes over a diatonic prog in B",
+            "Play the natural modes over a diatonic prog in C",
+            "Play the natural modes over a diatonic prog in C#",
+            "Play the natural modes over a diatonic prog in D",
+            "Play the natural modes over a diatonic prog in D#",
+            "Play the natural modes over a diatonic prog in E",
+            "Play the natural modes over a diatonic prog in F",
+            "Play the natural modes over a diatonic prog in F#",
+            "Play the natural modes over a diatonic prog in G",
+            "Play the natural modes over a diatonic prog in G#",
+            "Play the harmonic minor modes over a harmonic minor prog in A",
+            "Play the harmonic minor modes over a harmonic minor prog in A#",
+            "Play the harmonic minor modes over a harmonic minor prog in B",
+            "Play the harmonic minor modes over a harmonic minor prog in C",
+            "Play the harmonic minor modes over a harmonic minor prog in C#",
+            "Play the harmonic minor modes over a harmonic minor prog in D",
+            "Play the harmonic minor modes over a harmonic minor prog in D#",
+            "Play the harmonic minor modes over a harmonic minor prog in E",
+            "Play the harmonic minor modes over a harmonic minor prog in F",
+            "Play the harmonic minor modes over a harmonic minor prog in F#",
+            "Play the harmonic minor modes over a harmonic minor prog in G",
+            "Play the harmonic minor modes over a harmonic minor prog in G#",
+            "Play the natural modes over a diatonic prog in A",
+            "Play the natural modes over a diatonic prog in A#",
+            "Play the natural modes over a diatonic prog in B",
+            "Play the natural modes over a diatonic prog in C",
+            "Play the natural modes over a diatonic prog in C#",
+            "Play the natural modes over a diatonic prog in D",
+            "Play the natural modes over a diatonic prog in D#",
+            "Play the natural modes over a diatonic prog in E",
+            "Play the natural modes over a diatonic prog in F",
+            "Play the natural modes over a diatonic prog in F#",
+            "Play the natural modes over a diatonic prog in G",
+            "Play the natural modes over a diatonic prog in G#"
+        ]
     }
+
 }
