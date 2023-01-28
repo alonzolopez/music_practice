@@ -1,0 +1,72 @@
+{
+    "Core Progressions": {
+        "weight": 4,
+        "exercise": [
+            "Play the natural modes over a ii V I prog in A",
+            "Play the natural modes over a ii V I prog in A#",
+            "Play the natural modes over a ii V I prog in B",
+            "Play the natural modes over a ii V I prog in C",
+            "Play the natural modes over a ii V I prog in C#",
+            "Play the natural modes over a ii V I prog in D",
+            "Play the natural modes over a ii V I prog in D#",
+            "Play the natural modes over a ii V I prog in E",
+            "Play the natural modes over a ii V I prog in F",
+            "Play the natural modes over a ii V I prog in F#",
+            "Play the natural modes over a ii V I prog in G",
+            "Play the natural modes over a ii V I prog in G#",
+            "Play the natural modes over a diatonic prog in A",
+            "Play the natural modes over a diatonic prog in A#",
+            "Play the natural modes over a diatonic prog in B",
+            "Play the natural modes over a diatonic prog in C",
+            "Play the natural modes over a diatonic prog in C#",
+            "Play the natural modes over a diatonic prog in D",
+            "Play the natural modes over a diatonic prog in D#",
+            "Play the natural modes over a diatonic prog in E",
+            "Play the natural modes over a diatonic prog in F",
+            "Play the natural modes over a diatonic prog in F#",
+            "Play the natural modes over a diatonic prog in G",
+            "Play the natural modes over a diatonic prog in G#",
+            "Play the harmonic minor modes over a harmonic minor prog in A",
+            "Play the harmonic minor modes over a harmonic minor prog in A#",
+            "Play the harmonic minor modes over a harmonic minor prog in B",
+            "Play the harmonic minor modes over a harmonic minor prog in C",
+            "Play the harmonic minor modes over a harmonic minor prog in C#",
+            "Play the harmonic minor modes over a harmonic minor prog in D",
+            "Play the harmonic minor modes over a harmonic minor prog in D#",
+            "Play the harmonic minor modes over a harmonic minor prog in E",
+            "Play the harmonic minor modes over a harmonic minor prog in F",
+            "Play the harmonic minor modes over a harmonic minor prog in F#",
+            "Play the harmonic minor modes over a harmonic minor prog in G",
+            "Play the harmonic minor modes over a harmonic minor prog in G#",
+            "Play the natural modes over a diatonic prog in A",
+            "Play the natural modes over a diatonic prog in A#",
+            "Play the natural modes over a diatonic prog in B",
+            "Play the natural modes over a diatonic prog in C",
+            "Play the natural modes over a diatonic prog in C#",
+            "Play the natural modes over a diatonic prog in D",
+            "Play the natural modes over a diatonic prog in D#",
+            "Play the natural modes over a diatonic prog in E",
+            "Play the natural modes over a diatonic prog in F",
+            "Play the natural modes over a diatonic prog in F#",
+            "Play the natural modes over a diatonic prog in G",
+            "Play the natural modes over a diatonic prog in G#"
+        ]
+    },
+    "Kid Charlemagne" : {
+        "weight" : 1,
+        "direction" : ["Play along with the Kid Charlemagne solo loop."]
+    },
+    "Nunca Triste" : {
+        "weight" : 1,
+        "direction" : ["Play along with the Nunca Triste loop."]
+    },
+    "Yo No Soy Celoso" : {
+        "weight" : 1,
+        "direction" : ["Play along with the Yo No Soy Celoso loop."]
+    },
+    "All That Matters" : {
+        "weight" : 1,
+        "direction" : ["Play along with the All That Matters loop."]
+    }
+
+}

@@ -1,7 +1,0 @@
-{
-    "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-    "scale": ["Major", "Harmonic Minor", "Melodic Minor"],
-    "string": [1, 2, 3, 4, 5, 6],
-    "mode": [1, 2, 3, 4, 5, 6, 7],
-    "starting finger": ["index or middle", "ring or pinky", "single string"]
-}
