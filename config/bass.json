@@ -1,0 +1,22 @@
+{
+    "Funk Scale":
+    {
+        "weight": 4,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "starting string": ["E", "A", "D", "G"],
+        "link": ["https://www.dropbox.com/scl/fi/4nt5ls7wpzgzoaq8srn05/3_funk_scales_and_voicings.pdf?rlkey=4qzaokkwuh7z3j5zuvtrpuknu&dl=0"],
+        "reminder": ["to-do"]
+    },
+    "Fingerstyle Practice - Scene #1, Punctuating the Notes Using Staccato":
+    {
+        "weight": 4,
+        "link": ["https://www.dropbox.com/scl/fi/hevlw0dfvd43xzcpkrm77/4_fingerstyle_technique.pdf?rlkey=22dezth4ut39x97djspgxa7w4&dl=0"],
+        "reminder": ["Keep it loose. Don't tigthen up inactive fingers."]
+    },
+    "Fingerstyle Practice - Scene #2, Practice Session (1/4 -> 1/8 -> 1/16 notes)":
+    {
+        "weight": 4,
+        "link": ["https://www.dropbox.com/scl/fi/hevlw0dfvd43xzcpkrm77/4_fingerstyle_technique.pdf?rlkey=22dezth4ut39x97djspgxa7w4&dl=0"],
+        "reminder": ["Keep it loose. Don't tigthen up inactive fingers."]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Major scale practice":  {
+        "weight": 7,
+        "hand": ["Left", "Right"],
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "Diatonic chord progressions": {
+        "weight": 1,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    }
+}
