@@ -5,7 +5,7 @@
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
     },
     "Diatonic chord progressions": {
-        "weight": 1,
+        "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
     }
 }

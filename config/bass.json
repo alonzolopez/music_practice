@@ -18,5 +18,10 @@
         "weight": 4,
         "link": ["https://www.dropbox.com/scl/fi/hevlw0dfvd43xzcpkrm77/4_fingerstyle_technique.pdf?rlkey=22dezth4ut39x97djspgxa7w4&dl=0"],
         "reminder": ["Keep it loose. Don't tigthen up inactive fingers."]
+    },
+    "Finger Style - Two Finger Picking":
+    {
+        "weight": 4,
+        "pattern": ["Up the strings and back down", "Down the strings and back up", "Alternating High/Low"]
     }
 }
