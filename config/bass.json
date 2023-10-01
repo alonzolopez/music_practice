@@ -1,27 +1,189 @@
 {
-    "Funk Scale":
+    "Fingerstyle Technique - Punctuate the Notes Using Staccato":
     {
         "weight": 4,
-        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "starting string": ["E", "A", "D", "G"],
-        "link": ["https://www.dropbox.com/scl/fi/4nt5ls7wpzgzoaq8srn05/3_funk_scales_and_voicings.pdf?rlkey=4qzaokkwuh7z3j5zuvtrpuknu&dl=0"],
-        "reminder": ["to-do"]
+        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=6hpXp"]
     },
-    "Fingerstyle Practice - Scene #1, Punctuating the Notes Using Staccato":
+    "Fingerstyle Technique - 1/4 -> 1/8th -> 1/16th notes":
     {
         "weight": 4,
-        "link": ["https://www.dropbox.com/scl/fi/hevlw0dfvd43xzcpkrm77/4_fingerstyle_technique.pdf?rlkey=22dezth4ut39x97djspgxa7w4&dl=0"],
-        "reminder": ["Keep it loose. Don't tigthen up inactive fingers."]
+        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=xhpXp"]
     },
-    "Fingerstyle Practice - Scene #2, Practice Session (1/4 -> 1/8 -> 1/16 notes)":
+    "Fingerstyle Technique - 1/8th -> 1/16th notes":
     {
         "weight": 4,
-        "link": ["https://www.dropbox.com/scl/fi/hevlw0dfvd43xzcpkrm77/4_fingerstyle_technique.pdf?rlkey=22dezth4ut39x97djspgxa7w4&dl=0"],
-        "reminder": ["Keep it loose. Don't tigthen up inactive fingers."]
+        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=jhpXp"]
     },
-    "Finger Style - Two Finger Picking":
+    "Ghost Notes - Syncopated rhythm with ghost notes":
     {
         "weight": 4,
-        "pattern": ["Up the strings and back down", "Down the strings and back up", "Alternating High/Low"]
+        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=HCpXp"]
+    },
+    "Ghost Notes - just pluck a dead string":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=X3pXp"]
+    },
+    "Ghost Notes - tapping ghost notes":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=p3pXp"]
+    },
+    "Slap Technique - Octave Slap/Pop":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=LhpXp"]
+    },
+    "Slap Technique - Hammer-on Slap/Pop":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=PhpXp"]
+    },
+    "The Funky Scale":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/ZSBwc/in-practice-Jr277/?clip=Qj3Xp"],
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "Syncopated Chromatic Line with Ghost Notes":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=jj3Xp"]
+    },
+    "Syncopated Pentatonic Line with Ghost Notes":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=rj3Xp"]
+    },
+    "Syncopated Chromatic Line":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=mj3Xp"]
+    },
+    "Play Song - I Wish by Stevie Wonder":
+    {
+        "weight": 4,
+        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
+    },
+    "Play Song - Lose Yourself to Dance by Daft Punk":
+    {
+        "weight": 4,
+        "url": ["https://studio.moises.ai/player2/a602c1b6-9a57-4bbd-80b2-33fade15a888/?context=spliter&sections=true"]
+    },
+    "Play Song - Pretty Please by Dua Lipa":
+    {
+        "weight": 4,
+        "url": ["https://studio.moises.ai/player2/afde5b0a-f180-46fc-ae52-e51eb81b7741/?context=spliter"]
+    },
+    "Play Song - Sweet Thing by Rufus and Chaka Khan":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/4b253d7b-a4f7-4f94-b27c-26a00fbf7b5c/?context=spliter"]
+    },
+    "Play Song - I Want Your Love by Chic":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/f5e529c8-bc3e-40b8-93b1-112520e423cd/?context=spliter"]
+    },
+    "Play Song - Let's Work by Prince":
+    {
+        "weight": 0,
+        "Truefire url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/bass-work/v1860"],
+        "Moises url": ["https://studio.moises.ai/player2/947cd117-9c8d-4060-950f-7f30f6700f5e/?context=spliter"]
+    },
+    "Play Song - Funky Main Street":
+    {
+        "weight": 0,
+        "url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/funky-main-street/v1862"]
+    },
+    "Play Song - Evette":
+    {
+        "weight": 0,
+        "url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/evette/v1863"]
+    },
+    "Play Song - Super Freak by Rick James":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/d3ec53b7-7fe4-44de-82f2-49076ef11f96/?context=spliter"]
+    },
+    "Play Song - Big Bear":
+    {
+        "weight": 0,
+        "url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/big-bear/v1869"]
+    },
+    "Play Song - If You Want Me To Stay by Sly and the Family Stone":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/a7997ba0-f173-4212-bce7-11b7357c7c7a/?context=spliter"]
+    },
+    "Play Song - Count the Cost":
+    {
+        "weight": 0,
+        "url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/count-the-cost/v1870"]
+    },
+    "Play Song - I'd Rather Be With You by Bootsy Collins":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/26f19750-caaf-414f-9cf0-2432a48419d6/?context=spliter"]
+    },
+    "Play Song - Stomp! by The Brothers Johnson":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/a7b0ec3b-1bc5-4424-afc6-de2d24faa3f9/?context=spliter"]
+    },
+    "Play Song - Superfly by Curtis Mayfield":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/48182755-f8c0-4d3d-8485-cbec5cf70825/?context=spliter"]
+    },
+    "Play Song - Lovely Day by Bill Withers":
+    {
+        "weight": 0,
+        "url": ["https://studio.moises.ai/player2/a7bfa5e8-8ec7-4b7f-bbf0-2a30495ebc3b/?context=spliter"]
+    },
+    "Play Song - Forget Me Nots by Patrice Rushen":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - The Brothers Funk":
+    {
+        "weight": 0,
+        "url": ["https://truefire.com/bass-guitar-lessons/50-rb-bass-grooves/the-brothers-funk/v1876"]
+    },
+    "Play Song - Part-Time Lover by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Master Blaster (Jammin') by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - As by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - All I Do by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - My Cherie Amour by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Do I Do by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Knocks Me Off My Feet by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
     }
 }
