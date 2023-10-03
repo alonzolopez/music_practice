@@ -6,17 +6,17 @@
     },
     "Fingerstyle Technique - 1/4 -> 1/8th -> 1/16th notes":
     {
-        "weight": 4,
+        "weight": 2,
         "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=xhpXp"]
     },
     "Fingerstyle Technique - 1/8th -> 1/16th notes":
     {
-        "weight": 4,
+        "weight": 2,
         "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=jhpXp"]
     },
     "Ghost Notes - Syncopated rhythm with ghost notes":
     {
-        "weight": 4,
+        "weight": 5,
         "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=HCpXp"]
     },
     "Ghost Notes - just pluck a dead string":
@@ -41,18 +41,18 @@
     },
     "The Funky Scale":
     {
-        "weight": 4,
+        "weight": 3,
         "url": ["https://www.soundslice.com/slices/ZSBwc/in-practice-Jr277/?clip=Qj3Xp"],
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
     },
     "Syncopated Chromatic Line with Ghost Notes":
     {
-        "weight": 4,
+        "weight": 3,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=jj3Xp"]
     },
     "Syncopated Pentatonic Line with Ghost Notes":
     {
-        "weight": 4,
+        "weight": 3,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=rj3Xp"]
     },
     "Syncopated Chromatic Line":
