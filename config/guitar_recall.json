@@ -1,0 +1,84 @@
+{
+    "Chord Arpeggios": {
+        "weight": 2,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7 arpeggio with the root on string 6, E shape",
+            "7 arpeggio with the root on string 6, E shape",
+            "m7 arpeggio with the root on string 6, Em shape",
+            "m7b5 arpeggio with the root on string 6, E shape",
+            
+            "maj7 arpeggio with the root on string 6, G shape",
+            "7 arpeggio with the root on string 6, G shape",
+            "m7 arpeggio with the root on string 6, Gm shape",
+            "m7b5 arpeggio with the root on string 6, G shape",
+            
+            "maj7 arpeggio with the root on string 5, A shape",
+            "7 arpeggio with the root on string 5, A shape",
+            "m7 arpeggio with the root on string 5, Am shape",
+            "m7b5 arpeggio with the root on string 5, A shape",
+            
+            "maj7 arpeggio with the root on string 5, C shape",
+            "7 arpeggio with the root on string 5, C shape",
+            "m7 arpeggio with the root on string 5, Cm shape",
+
+            "maj7 arpeggio with the root on string 4, D shape",
+            "7 arpeggio with the root on string 4, D shape",
+            "m7 arpeggio with the root on string 4, Dm shape",
+            "m7b5 arpeggio with the root on string 4, D shape",
+            
+            "dim7 arpeggio with 6th string root on fret 1/5",
+            "dim7 arpeggio with 6th string root on fret 2/5"
+        ]    
+    },
+    "Play essential jazz chords up the neck": {
+        "weight": 4,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7",
+            "7",
+            "m7",
+            "m7b5",
+            "dim7"
+        ]    
+    },
+    "Essential jazz chords recall": {
+        "weight": 0,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord": [
+            "maj7 with the root on string 6, E shape",
+            "7 with the root on string 6, E shape",
+            "m7 with the root on string 6, E shape",
+            "m7b5 with the root on string 6, E shape",
+            "dim7 with the root on string 6, E shape",
+            
+            "maj7 with the root on string 5, A shape",
+            "7 with the root on string 5, A shape",
+            "m7 with the root on string 5, Am shape",
+            "m7b5 with the root on string 5, A shape",
+            "dim7 with the root on string 5, A shape",
+            
+            "maj7 with the root on string 5, C shape",
+            "7 with the root on string 5, C shape",
+            "m7 with the root on string 5, Cm shape",
+            
+            "maj7 with the root on string 4, D shape",
+            "7 with the root on string 4, D shape",
+            "m7 with the root on string 4, Dm shape",
+            "m7b5 with the root on string 4, D shape",
+            "dim7 with the root on string 4, D shape"
+        ]    
+    },
+    "Play the Progression":
+    {
+        "weight": 5,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "progression": [
+            "ii V i",
+            "I vi IV",
+            "ii V I domIII vi domVI",
+            "domVb9 i"
+        ],
+        "notes": ["Try to play either with voice leading or adding more chord tones (major chords: 9s, 11s; minor chords: 9s, 11s, 13s)"]
+    }
+}

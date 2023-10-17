@@ -1,0 +1,18 @@
+{
+    "ii V I played with jumps": {
+        "weight": 4,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "ii V I played as arpeggios by jumping around": {
+        "weight": 4,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "ii V I played as arpeggios with minimal movement / voice leading": {
+        "weight": 4,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "ii V I played with minimal movement / voice leading": {
+        "weight": 4,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    }
+}

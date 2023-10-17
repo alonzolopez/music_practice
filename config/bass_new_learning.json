@@ -1,65 +1,4 @@
 {
-    "Fingerstyle Technique - Punctuate the Notes Using Staccato":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=6hpXp"]
-    },
-    "Fingerstyle Technique - 1/4 -> 1/8th -> 1/16th notes":
-    {
-        "weight": 2,
-        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=xhpXp"]
-    },
-    "Fingerstyle Technique - 1/8th -> 1/16th notes":
-    {
-        "weight": 2,
-        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=jhpXp"]
-    },
-    "Ghost Notes - Syncopated rhythm with ghost notes":
-    {
-        "weight": 5,
-        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=HCpXp"]
-    },
-    "Ghost Notes - just pluck a dead string":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=X3pXp"]
-    },
-    "Ghost Notes - tapping ghost notes":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=p3pXp"]
-    },
-    "Slap Technique - Octave Slap/Pop":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=LhpXp"]
-    },
-    "Slap Technique - Hammer-on Slap/Pop":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=PhpXp"]
-    },
-    "The Funky Scale":
-    {
-        "weight": 3,
-        "url": ["https://www.soundslice.com/slices/ZSBwc/in-practice-Jr277/?clip=Qj3Xp"],
-        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
-    },
-    "Syncopated Chromatic Line with Ghost Notes":
-    {
-        "weight": 3,
-        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=jj3Xp"]
-    },
-    "Syncopated Pentatonic Line with Ghost Notes":
-    {
-        "weight": 3,
-        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=rj3Xp"]
-    },
-    "Syncopated Chromatic Line":
-    {
-        "weight": 4,
-        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=mj3Xp"]
-    },
     "Play Song - I Wish by Stevie Wonder":
     {
         "weight": 4,
@@ -67,12 +6,12 @@
     },
     "Play Song - Lose Yourself to Dance by Daft Punk":
     {
-        "weight": 4,
+        "weight": 0,
         "url": ["https://studio.moises.ai/player2/a602c1b6-9a57-4bbd-80b2-33fade15a888/?context=spliter&sections=true"]
     },
     "Play Song - Pretty Please by Dua Lipa":
     {
-        "weight": 4,
+        "weight": 0,
         "url": ["https://studio.moises.ai/player2/afde5b0a-f180-46fc-ae52-e51eb81b7741/?context=spliter"]
     },
     "Play Song - Sweet Thing by Rufus and Chaka Khan":
@@ -182,6 +121,16 @@
         "url": [""]
     },
     "Play Song - Knocks Me Off My Feet by Stevie Wonder":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Special Affair by The Internet":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Blanco Bootleg":
     {
         "weight": 0,
         "url": [""]

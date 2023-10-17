@@ -1,0 +1,54 @@
+{
+    "The Chromatic Scale":
+    {
+        "weight": 1,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+    },
+    "Major scale practice": {
+        "weight": 500,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "mode": [1, 2, 3, 4, 5, 6, 7],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+    },
+    "Harmonic minor practice": {
+        "weight": 5,
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "mode": [1, 2, 3, 4, 5, 6, 7],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+    },
+    "Chord Arpeggios": {
+        "weight": 5,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "chord": [
+            "maj7 arpeggio",
+            "7 arpeggio",
+            "m7 arpeggio",
+            "m7b5 arpeggio",
+            "dim7 arpeggio"
+        ]    
+    },
+    "Fingerstyle Technique - Punctuate the Notes Using Staccato":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=6hpXp"]
+    },
+    "Ghost Notes Technique - tapping ghost notes":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=p3pXp"]
+    },
+    "Slap Technique - Octave Slap/Pop":
+    {
+        "weight": 4,
+        "starting fret": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=LhpXp"]
+    },
+    "Slap Technique - Hammer-on Slap/Pop":
+    {
+        "weight": 4,
+        "starting fret": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "url": ["https://www.soundslice.com/slices/9sSkc/in-practice-Jr277/?clip=PhpXp"]
+    }
+}

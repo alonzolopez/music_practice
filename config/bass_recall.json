@@ -1,0 +1,33 @@
+{
+    "Fingerstyle Technique - Punctuate the Notes Using Staccato":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=6hpXp"]
+    },
+    "Ghost Notes - Syncopated rhythm with ghost notes":
+    {
+        "weight": 5,
+        "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=HCpXp"]
+    },
+    "The Funky Scale":
+    {
+        "weight": 3,
+        "url": ["https://www.soundslice.com/slices/ZSBwc/in-practice-Jr277/?clip=Qj3Xp"],
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    },
+    "Syncopated Chromatic Line with Ghost Notes":
+    {
+        "weight": 3,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=jj3Xp"]
+    },
+    "Syncopated Pentatonic Line with Ghost Notes":
+    {
+        "weight": 3,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=rj3Xp"]
+    },
+    "Syncopated Chromatic Line":
+    {
+        "weight": 4,
+        "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=mj3Xp"]
+    }
+}
