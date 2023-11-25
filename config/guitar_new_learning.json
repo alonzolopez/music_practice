@@ -1,22 +1,10 @@
 {
-    "Play essential jazz chords up the neck": {
-        "weight": 4,
-        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "chord": [
-            "maj7",
-            "7",
-            "m7",
-            "m7b5",
-            "dim7"
-        ]    
-    },
-    "Song - Stop this Train by John Mayer": {
+    "Song - Love at First Fight by Tyler Cole": {
         "weight": 0,
-        "url": []
+        "url": [""]
     },
-    "Song - TBD Bachata song": {
+    "Song - La Despedida by Alejandro Sanz" : {
         "weight": 0,
-        "url": []
+        "url": [""]
     }
-
 }

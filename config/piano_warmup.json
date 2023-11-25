@@ -3,15 +3,34 @@
         "weight": 8,
         "hand": ["Left", "Right"],
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "url": ["https://www.pianoscales.org/major.html"]
+    },
+    "Melodic Minor Scale Practice":
+    {
+        "weight": 8,
+        "hand": ["Left", "Right"],
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "url": ["https://www.pianoscales.org/minor-melodic.html"]
+    },
+    "Harmonic Minor Scale Practice":
+    {
+        "weight": 8,
+        "hand": ["Left", "Right"],
+        "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "url": ["https://www.pianoscales.org/minor-harmonic.html"]
     },
     "Diatonic chord progressions": {
         "weight": 4,
+        "hand": ["Left", "Right"],
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
     "Diatonic chord progressions played as arpeggios": {
         "weight": 4,
+        "hand": ["Left", "Right"],
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     }

@@ -1,33 +1,38 @@
 {
     "Fingerstyle Technique - Punctuate the Notes Using Staccato":
     {
-        "weight": 4,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/-1Skc/in-practice-Jr277/?clip=6hpXp"]
     },
     "Ghost Notes - Syncopated rhythm with ghost notes":
     {
-        "weight": 5,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/LsSkc/in-practice-Jr277/?clip=HCpXp"]
     },
     "The Funky Scale":
     {
-        "weight": 3,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/ZSBwc/in-practice-Jr277/?clip=Qj3Xp"],
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
     },
     "Syncopated Chromatic Line with Ghost Notes":
     {
-        "weight": 3,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=jj3Xp"]
     },
     "Syncopated Pentatonic Line with Ghost Notes":
     {
-        "weight": 3,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=rj3Xp"]
     },
     "Syncopated Chromatic Line":
     {
-        "weight": 4,
+        "weight": 1,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=mj3Xp"]
+    },
+    "Play Song - I Wish by Stevie Wonder":
+    {
+        "weight": 4,
+        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
     }
 }

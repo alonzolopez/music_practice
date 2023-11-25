@@ -1,22 +1,26 @@
 {
-    "ii V I played with jumps": {
+    "Stop This Train progression: Dmaj9(no3) G-maj7 D/F# E7 Asus4 A A- G/A played with jumps": {
         "weight": 4,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "note": "This progression may also be understood as: Imaj9(no3) ivmaj7 I^6 II7 Vsus4 V v IV/9"
     },
-    "ii V I played as arpeggios by jumping around": {
+    "Stop This Train progression: Dmaj9(no3) G-maj7 D/F# E7 Asus4 A A- G/A played as arpeggios by jumping around": {
         "weight": 4,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "note": "This progression may also be understood as: Imaj9(no3) ivmaj7 I^6 II7 Vsus4 V v IV/9"
     },
-    "ii V I played as arpeggios with minimal movement / voice leading": {
+    "Stop This Train progression: Dmaj9(no3) G-maj7 D/F# E7 Asus4 A A- G/A played as arpeggios with minimal movement / voice leading": {
         "weight": 4,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "note": "This progression may also be understood as: Imaj9(no3) ivmaj7 I^6 II7 Vsus4 V v IV/9"
     },
-    "ii V I played with minimal movement / voice leading": {
+    "Stop This Train progression: Dmaj9(no3) G-maj7 D/F# E7 Asus4 A A- G/A played with minimal movement / voice leading": {
         "weight": 4,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
-        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+        "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130],
+        "note": "This progression may also be understood as: Imaj9(no3) ivmaj7 I^6 II7 Vsus4 V v IV/9"
     }
 }

@@ -1,7 +1,8 @@
 {
-    "Play Song - I Wish by Stevie Wonder":
+    "Play Song - I Wish by Stevie Wonder (section)":
     {
         "weight": 4,
+        "notes": ["Practice in Logic. Stay behind the beat."],
         "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
     },
     "Play Song - Lose Yourself to Dance by Daft Punk":
@@ -131,6 +132,16 @@
         "url": [""]
     },
     "Play Song - Blanco Bootleg":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Hair by Graham Central Station":
+    {
+        "weight": 0,
+        "url": [""]
+    },
+    "Play Song - Ascension (Don't Ever Wonder) by Maxwell":
     {
         "weight": 0,
         "url": [""]
