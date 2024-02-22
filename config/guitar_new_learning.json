@@ -6,5 +6,13 @@
     "Song - La Despedida by Alejandro Sanz" : {
         "weight": 0,
         "url": [""]
+    },
+    "Song - I'll Be Seeing You" : {
+        "weight": 0,
+        "url": [""]
+    },
+    "Song - Waterfalls & Reverb" : {
+        "weight": 0,
+        "url": [""]
     }
 }
