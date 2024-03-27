@@ -42,6 +42,24 @@
         "note to bend to": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "string": [4, 5, 6],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
+    },
+    "Inversions - Triads": {
+        "weight": 2,
+        "chord root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord character": ["maj", "min", "sus2", "sus4", "dim", "aug"],
+        "inversion": [0, 1, 2]
+    },
+    "Inversions - 4 note chords": {
+        "weight": 2,
+        "chord root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord character": ["maj7", "maj9", "add9", "m7", "dim7", "m7b5", "7", "6", "m6"],
+        "inversion": [0, 1, 2, 3]
+    },
+    "Inversions - 5 note chords": {
+        "weight": 2,
+        "chord root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "chord character": ["maj9", "maj11", "m9", "9", "7(13)", "b9", "7(b13)", "7(#9)", "7(#5)"],
+        "inversion": [0, 1, 2, 3, 4]
     }
 
 }
