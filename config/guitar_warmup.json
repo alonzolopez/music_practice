@@ -1,38 +1,38 @@
 {
-    "Major scale practice": {
+    "Major scale practice - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)": {
         "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "starting string": [5, 6],
         "mode": [1, 2, 3, 4, 5, 6, 7],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
-    "Harmonic minor practice": {
+    "Harmonic minor practice - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)": {
         "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "mode": [1, 2, 3, 4, 5, 6, 7],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
-    "Melodic minor practice": {
+    "Melodic minor practice - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)": {
         "weight": 2,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "mode": [1, 2, 3, 4, 5, 6, 7],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
-    "Major Blues scale practice": {
+    "Major Blues scale practice - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)": {
         "weight": 1,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "starting string": [4, 5, 6],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
-    "Minor Blues scale practice": {
+    "Minor Blues scale practice - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)": {
         "weight": 1 ,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "starting string": [4, 5, 6],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },
-    "The Chromatic Scale":
+    "The Chromatic Scale - Rhythm Tree (Quarter, Eighth, Sixteenth Triplet, Sixteenth)":
     {
-        "weight": 3,
+        "weight": 1,
         "key": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
         "tempo": [70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130]
     },

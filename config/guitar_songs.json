@@ -1,0 +1,40 @@
+{
+    "Abusey Junction": {
+        "weight": 1
+    },
+    "I'll Be Seeing You": {
+        "weight": 1
+    },
+    "While We're Young": {
+        "weight": 1
+    },
+    "Elixir": {
+        "weight": 1
+    },
+    "Besame Mucho by Alaina Castillo": {
+        "weight": 0,
+        "url": [""]
+    },
+    "Neon by John Mayer": {
+        "weight": 0
+    },
+    "Stop this Train by John Mayer": {
+        "weight": 0,
+        "moises_url": ["https://studio.moises.ai/player2/4bf8fdea-2a9e-427b-98d8-478d7094a6c8/?context=spliter&playlistId=196e5a22-0bb0-46cf-9994-b1b035dac3ed"],
+        "notes": ["Open the Logic Pro project for this song at Dropbox/music/pretty_little_ditties/practice/Stop_This_Train_John_Mayer.logicx"]
+    },
+    "Atravesao by Elsa y Elmar": {
+        "weight": 0,
+        "url": [""]
+    },
+    "In a Sentimental Mood by Ella Fitzgerald": {
+        "weight": 0,
+        "moises_url": ["https://studio.moises.ai/player2/5a2a80ee-42bd-4184-839b-c0973546e3bf/?context=spliter"],
+        "logic_file": ["Dropbox/music/pretty_little_ditties/practice/In_a_Sentimental_Mood.logicx"],
+        "chords": ["https://www.jazzguitar.be/blog/sentimental-mood-chords/"],
+        "solo": ["https://www.jazzguitar.be/blog/in-a-sentimental-mood/"]
+    },
+    "Kid Charlemagne Solo": {
+        "weight": 0
+    }
+}

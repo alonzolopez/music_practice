@@ -1,0 +1,22 @@
+{
+    "I Wish by Stevie Wonder":
+    {
+        "weight": 1,
+        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
+    },
+    "If You Want Me To Stay by Sly and the Family Stone":
+    {
+        "weight": 1,
+        "url": ["https://studio.moises.ai/player2/a7997ba0-f173-4212-bce7-11b7357c7c7a/?context=spliter"]
+    },
+    "Don't Start Now by Dua Lipa":
+    {
+        "weight": 1
+    },
+    "Play Song - I Wish by Stevie Wonder (section)":
+    {
+        "weight": 1,
+        "notes": ["Practice in Logic. Stay behind the beat."],
+        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
+    }
+}

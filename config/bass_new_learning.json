@@ -1,10 +1,4 @@
 {
-    "Play Song - I Wish by Stevie Wonder (section)":
-    {
-        "weight": 4,
-        "notes": ["Practice in Logic. Stay behind the beat."],
-        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
-    },
     "Play Song - Lose Yourself to Dance by Daft Punk":
     {
         "weight": 0,

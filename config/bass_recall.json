@@ -29,15 +29,5 @@
     {
         "weight": 1,
         "url": ["https://www.soundslice.com/slices/xSBwc/in-practice-Jr277/?clip=mj3Xp"]
-    },
-    "Play Song - I Wish by Stevie Wonder":
-    {
-        "weight": 4,
-        "url": ["https://studio.moises.ai/player2/89166ea4-b2b4-4952-8109-e5c1d441f562/?context=spliter&sections=true"]
-    },
-    "Play Song - If You Want Me To Stay by Sly and the Family Stone":
-    {
-        "weight": 4,
-        "url": ["https://studio.moises.ai/player2/a7997ba0-f173-4212-bce7-11b7357c7c7a/?context=spliter"]
     }
 }
