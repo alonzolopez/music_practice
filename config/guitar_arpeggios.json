@@ -1,0 +1,17 @@
+{
+    "Arpeggios: maj -> maj7 -> maj9 -> maj13 -> maj7#5 -> maj7#11": {
+        "weight": 1,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "root string": ["E", "A", "D"]
+    },
+    "Arpeggios: 7 -> 7b9 -> 7#9 -> 9 -> 7#11 -> 7b13 -> 7b9b13 -> 7b5 -> 13": {
+        "weight": 1,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "root string": ["E", "A", "D"]
+    },
+    "Arpeggio over chord progression: ii V I": {
+        "weight": 1,
+        "root": ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"],
+        "root string": ["E", "A", "D"]
+    }
+}
